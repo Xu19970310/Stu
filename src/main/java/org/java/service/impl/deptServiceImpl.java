@@ -15,7 +15,7 @@ public class deptServiceImpl implements deptService {
 
 		@Override
 		public List<Map<String, Object>> getDept() {			
-			return dept.getdept();
+			return dept.getDept();
 		}
 	     
 	   
