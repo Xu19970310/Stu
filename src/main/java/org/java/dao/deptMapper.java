@@ -5,5 +5,5 @@ import java.util.Map;
 
 public interface deptMapper {
 	
-	public List<Map<String, Object>> getdept();
+	public List<Map<String, Object>> getDept();
 }
